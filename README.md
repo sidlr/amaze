@@ -1,0 +1,2 @@
+# amaze
+just a maze
